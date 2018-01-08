@@ -1,0 +1,17 @@
+venv
+.env
+build/
+coverage/
+dist/
+lib/
+lib/bundle.js*
+node_modules/
+dash_colorscales/metadata.json
+dash_colorscales/bundle.js*
+.npm
+vv/
+venv/
+*.pyc
+*.egg-info
+*.log
+.DS_Store
