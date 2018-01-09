@@ -1,6 +1,6 @@
-# dash-colorscales
+# dash-colorscales 🌈
 
-Add a fancy colorscale picker UI to your Dash apps. 🌈 `DashColorscales` wraps [react-colorscales](https://github.com/plotly/react-colorscales) for use in Dash apps.
+Add a fancy colorscale picker to your Dash apps. `DashColorscales` wraps [react-colorscales](https://github.com/plotly/react-colorscales) for use in Dash.
 
 👉 [Simple demo](http://react-colorscales.getforge.io/)
 
