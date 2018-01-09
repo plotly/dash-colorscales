@@ -31,7 +31,8 @@
     "dash-components-archetype": "^0.2.11",
     "prop-types": "^15.5.9",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-colorscales": "0.4.1"
   },
   "devDependencies": {
     "dash-components-archetype-dev": "^0.2.11",
