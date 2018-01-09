@@ -6,8 +6,6 @@ dist/
 lib/
 lib/bundle.js*
 node_modules/
-dash_colorscales/metadata.json
-dash_colorscales/bundle.js*
 .npm
 vv/
 venv/
@@ -15,3 +13,5 @@ venv/
 *.egg-info
 *.log
 .DS_Store
+.Rproj.user
+.Rhistory
