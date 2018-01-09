@@ -1,6 +1,6 @@
 {
   "name": "dash-colorscales",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Colorscale picker UI for your Dash apps",
   "main": "lib/index.js",
   "repository": {
