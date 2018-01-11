@@ -1,10 +1,11 @@
 from setuptools import setup
 
-exec (open('dash_colorscales/version.py').read())
+main_ns = {}
+exec(open('dash_colorscales/version.py').read(), main_ns)
 
 setup(
     name='dash_colorscales',
-    version=__version__,
+    version=main_ns['__version__'],
     author='plotly',
     packages=['dash_colorscales'],
     include_package_data=True,
