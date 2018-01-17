@@ -1,6 +1,6 @@
 {
   "name": "dash-colorscales",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Colorscale picker UI for your Dash apps",
   "main": "lib/index.js",
   "repository": {
@@ -32,7 +32,7 @@
     "prop-types": "^15.5.9",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-colorscales": "0.4.1"
+    "react-colorscales": "0.4.2"
   },
   "devDependencies": {
     "dash-components-archetype-dev": "^0.2.11",
