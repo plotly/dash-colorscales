@@ -1,0 +1,15 @@
+Package: dashColorscales
+Title: Colorscale picker UI for your Dash apps
+Version: 0.0.4
+Authors @R: as.person(c(Jack Parmer <jack@plot.ly>))
+Description: Colorscale picker UI for your Dash apps
+Depends: R (>= 3.0.2)
+Imports: dashR
+Suggests: testthat, roxygen2
+License: MIT + file LICENSE
+URL: https://github.com/plotly/dash-colorscales
+BugReports: https://github.com/plotly/dash-colorscales/issues
+Encoding: UTF-8
+LazyData: true
+Author: Jack Parmer [aut]
+Maintainer: Jack Parmer <jack@plot.ly>
