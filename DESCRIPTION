@@ -1,10 +1,9 @@
 Package: dashColorscales
-Title: Colorscale picker UI for your Dash apps
+Title: Component wrapper for React-Colorscales.js 
 Version: 0.0.4
-Authors @R: as.person(c(Jack Parmer <jack@plot.ly>))
-Description: Colorscale picker UI for your Dash apps
+Description: Interactive Colorscale Picker UI Component for Dash
 Depends: R (>= 3.0.2)
-Imports: dashR
+Imports: dash
 Suggests: testthat, roxygen2
 License: MIT + file LICENSE
 URL: https://github.com/plotly/dash-colorscales
