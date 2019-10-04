@@ -2,4 +2,4 @@ include dash_colorscales/bundle.js
 include dash_colorscales/bundle.js.map
 include dash_colorscales/metadata.json
 include README.md
-include LICENSE.md
+include LICENSE.txt
