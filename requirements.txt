@@ -17,7 +17,7 @@ Fiona==1.7.11
 Flask==0.12.2
 Flask-Compress==1.4.0
 geopandas==0.3.0
-gunicorn==19.7.1
+gunicorn==23.0.0
 idna==2.6
 ipython-genutils==0.2.0
 itsdangerous==0.24
